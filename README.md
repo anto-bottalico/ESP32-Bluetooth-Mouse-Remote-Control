@@ -8,14 +8,14 @@ This repository hosts a project that utilizes an ESP32 microcontroller connected
 
 ## Key Features
 
-**Bluetooth Mouse Control:** The ESP32, integrated with the gyroscope and keypad, allows users to control mouse movements, clicks, and other functions via Bluetooth connectivity.
-**Gyroscope Integration:** The gyroscope sensor enables gesture-based control, allowing users to move the cursor by tilting the device in different directions.
+**Bluetooth Mouse Control:** The ESP32, integrated with the gyroscope and keypad, allows users to control mouse movements, clicks, and other functions via Bluetooth connectivity.<br>
+**Gyroscope Integration:** The gyroscope sensor enables gesture-based control, allowing users to move the cursor by tilting the device in different directions.<br>
 **Keypad Input:** The 4x4 keypad provides additional input functionalities, such as scrolling and button shortcuts, enhancing the user experience and versatility of the Bluetooth mouse remote control.
 
 ## Components
 
-**ESP32 Microcontroller:** Acts as the central processing unit, coordinating communication between the gyroscope, keypad, and Bluetooth module.
-**Gyroscope Sensor:** Detects motion and orientation changes, translating them into mouse movements for cursor control.
+**ESP32 Microcontroller:** Acts as the central processing unit, coordinating communication between the gyroscope, keypad, and Bluetooth module.<br>
+**Gyroscope Sensor:** Detects motion and orientation changes, translating them into mouse movements for cursor control.<br>
 **4x4 Matrix Array Keypad:** Provides tactile input for various mouse functions and shortcuts.
 
 ## Code

@@ -1,6 +1,6 @@
 # ESP32-Bluetooth-Mouse-Remote-Control
 
-<img src="images/Mouse_remote_control.jpg" alt="Mouse remote control" style="width:350px;height:300px;">
+<img src="images/Mouse_remote_control.jpg" alt="Mouse remote control" style="width:350px;height:400px;">
 
 ## Description
 
